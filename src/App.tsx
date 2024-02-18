@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-      {/* <Create /> */}
-      <RatingPage />
+      <Create />
+      {/* <RatingPage /> */}
     </>
   );
 }
